@@ -1,15 +1,9 @@
-<!-- # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Anusha here. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=anusha-c18.repoName) [![GitHub followers](https://img.shields.io/github/followers/anusha-c18.svg?style=social&label=Follow)](https://github.com/anusha-c18?tab=followers)<br/>
-
-<img align="right" width=300px alt="me typing" src="typing1.gif" style="border-radius:10px;" >
- -->
- 
- ﻿
+﻿
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=FC6C85&width=370&height=100&lines=Hi+%2C+I'm+Anusha+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=anusha-c18&color=babypink" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=anusha-c18&color=FFC1CC" alt="watching_count" />
  </p>
 	
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
