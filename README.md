@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=FC6C85&width=370&height=100&lines=Hi+%2C+I'm+Anusha+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=anusha-c18&color=FFC1CC" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=anusha-c18&color=DE5D83" alt="watching_count" />
  </p>
 	
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
