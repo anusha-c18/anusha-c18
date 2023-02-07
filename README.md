@@ -11,7 +11,7 @@
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-FFC1CC" />
-  <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
+  <img src="https://img.shields.io/badge/Languages-English-FF9999" />
 </p>
 
 - 🔭 I’m currently working on my side projects
