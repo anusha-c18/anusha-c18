@@ -57,7 +57,7 @@
 <br>
 </p>
 
-
+<!-- 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
@@ -98,7 +98,7 @@
 
 </div>
 
-
+ -->
 ------
-[Mahdiiye](https://github.com/Mahdiiye)
-Last Edited on: 19/01/2023
+[Anusha Chaturvedi](https://github.com/anusha-c18)
+Last Edited on: 08/02/2023
