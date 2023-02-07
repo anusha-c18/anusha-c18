@@ -92,9 +92,9 @@
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a href="https://in.linkedin.com/in/anusha18" target="_blank" >
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;margin-bottom:20px;" ></a>
-        <a style="margin-left: 10px;" href="https://www.github.com/anusha-c18" target="_blank" >
+        <a style="margin-left: 10px;margin-bottom:20px;" href="https://www.github.com/anusha-c18" target="_blank" >
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-           <a style="margin-left: 10px;" href="mailto:anushachaturvedi18@gmail.com" target="_blank" >
+           <a style="margin-left: 10px;margin-bottom:20px;" href="mailto:anushachaturvedi18@gmail.com" target="_blank" >
 		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
       </div>
 
