@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=anusha-c18&color=FC6C85" alt="watching_count" />
  </p>
 	
-## <picture><img src = "https://www.flaticon.com/free-icon/woman_949644?related_id=949706&origin=search" width =40px></picture> **About me**
+## <picture><img src = "woman.png" width =40px></picture> **About me**
 
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
