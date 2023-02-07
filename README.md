@@ -14,13 +14,12 @@
   <img src="https://img.shields.io/badge/Languages-English-FF9999" />
 </p>
 
-- 🔭 I’m currently working on my side projects
-- 🌱 I’m currently learning software architecture
+- 🔭 I’m currently working on side projects
+- 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on your open source projects
-- 💬 Ask me about C#
-- 📫 How to reach me: Contact part
+- 💬 Ask me about Java
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I never thought I would become a .net programmer!
+- ⚡ Fun fact: I love dancing!
 
 <br>
 
