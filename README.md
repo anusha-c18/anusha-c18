@@ -95,7 +95,7 @@
         <a style="margin-left: 10px;margin-bottom:20px;" href="https://www.github.com/anusha-c18" target="_blank" >
 		<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" style=" width:35px; height:43px;"></a>
            <a style="margin-left: 10px;margin-bottom:20px;" href="mailto:anushachaturvedi18@gmail.com" target="_blank" >
-		<img src="https://www.google.com/search?q=gmail+icon&rlz=1C1GCEU_en-GBIN1043IN1043&oq=gmail+icon&aqs=chrome..69i57j0i131i433i512l2j0i433i512j0i131i433i512j0i433i512l2j69i60.1936j0j7&sourceid=chrome&ie=UTF-8#imgrc=Zoy5y1xu6i5oBM" style=" width:35px; height:43px;"></a>
+		<img src="https://www.flaticon.com/free-icon/gmail_732200?term=gmail&page=1&position=2&origin=search&related_id=732200" style=" width:35px; height:43px;"></a>
       </div>
 
 </p>
