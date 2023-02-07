@@ -1,6 +1,6 @@
 ﻿
 <p align="center">
-<a style="margin:auto;" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&pause=50&size=33&color=FC6C85&width=370&height=100&lines=     Hi+%2C+I'm+Anusha+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a style="margin:auto;" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&pause=50&size=33&color=FC6C85&width=370&height=100&lines=Hi+%2C+I'm+Anusha+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=anusha-c18&color=FF9999" alt="watching_count" />
