@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=anusha-c18&color=FF9999" alt="watching_count" />
  </p>
 	
-## <picture><img src = "woman.png" width =30px height="30px"></picture> **About me**
+## <picture><img src = "https://www.flaticon.com/free-stickers/people" title="people stickers">People stickers created by Stickers - Flaticon</a>" width =30px height="30px"></picture> **About me**
 
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
