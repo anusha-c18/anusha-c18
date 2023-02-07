@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-FE7D6A" />
   <img src="https://img.shields.io/badge/Languages-English, Hindi-FC4C4E" />
   <img src="https://img.shields.io/badge/Languages-English, Hindi-FE7F9C" />
+  <img src="https://img.shields.io/badge/Languages-English, Hindi-FC94AF" />
 </p>
 
 - 🔭 I’m currently working on side projects
