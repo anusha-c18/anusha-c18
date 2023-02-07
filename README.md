@@ -29,9 +29,9 @@
 
 - **Languages**:
     
-     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40" style="margin:auto;" alt="java"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" style="margin:auto;" alt="python" />
-     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="40" height="40" style="margin:auto;" alt="c" />
+     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40" alt="java"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" alt="python" />
+     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="40" height="40" alt="c" />
   
 - **Front-End Development**:
 	
