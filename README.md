@@ -3,15 +3,15 @@
 <a style="margin:auto;" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&pause=50&size=33&color=FC6C85&width=370&height=100&lines=Hi+%2C+I'm+Anusha+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=anusha-c18&color=FF9999" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=anusha-c18&color=FFD1DC" alt="watching_count" />
  </p>
 	
 ## <picture><img src = "woman (1).png" title="people stickers" width =30px height="30px"></picture> **About me**
 
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-FF9999&?labelColor=FC6C85&color=FF9999" />
-  <img src="https://img.shields.io/badge/Languages-English, Hindi-FF9999?labelColor=FC6C85&background-color=FF9999" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-FFD1DC&?labelColor=FC6C85&color=FFD1DC" />
+  <img src="https://img.shields.io/badge/Languages-English, Hindi-FF9999?labelColor=FFD1DC&background-color=FFD1DC" />
 </p>
 
 - 🔭 I’m currently working on side projects
