@@ -14,12 +14,12 @@
   <img src="https://img.shields.io/badge/Languages-English, Hindi-FFD1DC?labelColor=FC6C85&background-color=FFD1DC" />
 </p>
 
-- 🔭 I’m currently working on side projects
+- 👾 React Projects Developed: 2️⃣
+- 🔭 Freelancing projects completed: 2️⃣ 
+- 💻 Internships completed: 2️⃣
 - 🌱 I’m currently learning React.js, Node.js, & Express.js 
 - 👯 I’m looking to collaborate on your open source projects
-- 💬 Ask me about Java
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love dancing!
+- 💃🏽 Fun fact: I love dancing!
 
 <br>
 
