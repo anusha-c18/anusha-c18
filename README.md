@@ -46,7 +46,6 @@
 	
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="node.js" />
    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" height="40" alt="express.js" />
-   <img src="https://user-images.githubusercontent.com/64439609/212556085-e6f8391a-6f25-43d5-8bfe-818167047cfb.png" width="40" height="40" alt="JS"/>
 
 
 - **Softwares and Tools**:
