@@ -15,7 +15,7 @@
 </p>
 
 - 🔭 I’m currently working on side projects
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React.js, Node.js, & Express.js 
 - 👯 I’m looking to collaborate on your open source projects
 - 💬 Ask me about Java
 - 😄 Pronouns: She/Her
